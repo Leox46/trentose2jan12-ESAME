@@ -1,0 +1,25 @@
+{
+  "name": "esame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jest": "^22.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leox46/trentose2jan12-ESAME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leox46/trentose2jan12-ESAME/issues"
+  },
+  "homepage": "https://github.com/Leox46/trentose2jan12-ESAME#readme"
+}
