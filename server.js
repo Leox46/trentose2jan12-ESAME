@@ -31,7 +31,7 @@ apiArithmetic.get('/getArea', function(req, res){
 });
 
 
-app.use('/api/v1', apiArithmetic);
+app.use('/', apiArithmetic);
 
 // handle invalid requests and internal error
 app.use((req, res, next) => {
